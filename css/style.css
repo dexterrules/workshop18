@@ -1,0 +1,157 @@
+
+.header {
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.box {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: rgba(1, 1, 4, 0.40);
+  border-radius: 5px;
+}
+
+.container {
+  margin-top: 100px;
+  position: relative;
+  
+}
+
+.header-text {
+  font-size: 6em;
+  font-family: 'Oswald', sans-serif;
+  display: block;
+  font-weight: 500;
+  color: white;
+  padding: 0px 200px 0 100px;
+}
+
+
+.subheader-text {
+  font-size: 2.5em;
+  font-family: 'Oswald', sans-serif;
+  display: block;
+  font-weight: 500;
+  color: white;
+  padding: 10px 200px 0 100px;
+}
+
+.subheader-text-b {
+  font-size: 2.5em;
+  font-family: 'Oswald', sans-serif;
+  display: block;
+  font-weight: 500;
+  color: black;
+  text-align: left;
+  margin-left: 200px;
+  margin-right: 100px;
+}
+.miniheader-text {
+  font-size: 2em;
+  font-family: 'Work Sans', sans-serif;
+  display: block;
+  font-weight: 300;
+  color: white;
+  padding: 10px 200px 0 100px;
+}
+
+.text {
+  font-size: 1.2em;
+  font-family: 'Work Sans', sans-serif;
+  display: block;
+  font-weight: 400;
+  color: white;
+  text-align: left;
+  
+  
+}
+
+.textb {
+  position: relative;
+  font-size: 1.5em;
+  font-family: 'Work Sans', sans-serif;
+  display: block;
+  font-weight: 400;
+  color: black;
+  text-align: left;
+  margin-left: 200px;
+  margin-right: 100px;
+  margin-top: 50px;
+
+  
+  
+}
+
+.footer {
+  position: relative;
+  font-size: 1.2em;
+  font-family: 'Work Sans', sans-serif;
+  display: block;
+  font-weight: 400;
+  color: black;
+  text-align: center;
+  margin-left: 200px;
+  margin-right: 100px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+
+  
+  
+}
+.htextb {
+  position: relative;
+  font-size: 2em;
+  font-family: 'Work Sans', sans-serif;
+  display: block;
+  font-weight: 400;
+  color: black;
+  text-align: left;
+  margin-left: 200px;
+  margin-right: 100px;
+
+  
+}
+
+.breaker {
+  margin-bottom: 50px;
+}
+
+
+
+
+/* ---- particles.js container ---- */
+
+#particles-js{
+  max-height: 800px;
+  background-color: #1c1263;
+  position:absolute;
+  top:0;
+  right:0;
+  bottom:0;
+  left:0;
+  z-index:-1;
+}
+
+#yolo{
+  -webkit-animation-duration: 2s;
+  -webkit-animation-delay: 0s;
+}
+
+.bkg-bd {
+
+        background-image: url(http://res.cloudinary.com/sanchitsoni18/image/upload/v1518557226/Harp/yolo-2.png) ;
+        background-position: center center;
+        background-repeat:  no-repeat;
+        background-attachment: cover;
+        background-color: white;
+
+}
+
+
+
+#overlay {
+  margin-left: 200px;
+
+  margin-right: 200px;
+}
+
