@@ -4,6 +4,20 @@
   padding-bottom: 150px;
 }
 
+.nav-text {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1em;
+  line-height: 1.42;
+}
+
+.hyper {
+  color: white;
+}
+
+.navbar-color {
+  background-color: #161f5f;
+}
+
 .box {
   padding-top: 50px;
   padding-bottom: 50px;
@@ -11,10 +25,9 @@
   border-radius: 5px;
 }
 
-.container {
+.text-container {
   margin-top: 100px;
   position: relative;
-  
 }
 
 .header-text {
