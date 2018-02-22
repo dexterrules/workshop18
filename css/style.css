@@ -25,13 +25,17 @@
   border-radius: 5px;
 }
 
+.text-container-top {
+  margin-top: 50px;
+  position: relative;
+}
+
 .text-container {
-  margin-top: 100px;
   position: relative;
 }
 
 .header-text {
-  font-size: 6em;
+  font-size: 5.8em;
   font-family: 'Oswald', sans-serif;
   display: block;
   font-weight: 500;
@@ -129,7 +133,28 @@
   margin-bottom: 50px;
 }
 
+.table-div {
+  width: 437px;
+  margin-left: 194px;
+}
 
+.fir-row {
+  width: 180px;
+}
+
+.sec-row {
+  width: 256px;
+}
+
+.panel{
+    background-color:#ebeded;
+    padding:4em 3em;
+}
+.panel-content {
+	width:70%;
+    margin:0px auto 2em;
+	color:#3e3e3e;
+}
 
 
 /* ---- particles.js container ---- */
