@@ -306,7 +306,7 @@
           font-size: 1.1em;
         }
 }
-
+/* ----------- Mobile ----------- */
 @media screen
   and (max-width: 375px)
   and (-webkit-min-device-pixel-ratio: 1) {
@@ -336,6 +336,39 @@
 	  #overlay {
            margin-left: 20px;
            margin-right: 20px;
+        }
+}
+
+/* ----------- Tablet ----------- */
+@media screen
+  and (max-width: 768px)
+  and (-webkit-min-device-pixel-ratio: 1) {
+        .header-text {
+          font-size: 1.3em;
+          padding: 0px 100px 0 50px;	
+        }
+
+        .subheader-text {
+          font-size: 1.2em;
+	  padding: 0px 100px 0 50px;
+        }
+
+
+        .subheader-text-b {
+          font-size: 1em;
+        }
+
+        .miniheader-text {
+          font-size: 1em;
+          padding: 0px 100px 0 50px;
+        }
+
+        .textb {
+          font-size: 1em;
+        }
+	  #overlay {
+           margin-left: 40px;
+           margin-right: 40px;
         }
 }
 
