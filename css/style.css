@@ -307,4 +307,31 @@
         }
 }
 
+@media screen
+  and (max-width: 375px)
+  and (-webkit-min-device-pixel-ratio: 1) {
+        .header-text {
+          font-size: 1.3em;
+          padding: 0px 50px 0 25px;	
+        }
+
+        .subheader-text {
+          font-size: 1.2em;
+	  padding: 0px 50px 0 25px;
+        }
+
+
+        .subheader-text-b {
+          font-size: 1em;
+        }
+
+        .miniheader-text {
+          font-size: 1em;
+          padding: 0px 50px 0 25px;
+        }
+
+        .textb {
+          font-size: 1em;
+        }
+}
 
