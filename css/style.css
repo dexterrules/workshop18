@@ -307,9 +307,8 @@
         }
 }
 /* ----------- Mobile ----------- */
-@media screen
-  and (max-width: 375px)
-  and (-webkit-min-device-pixel-ratio: 1) {
+@media (max-width: 375px)
+ {
         .header-text {
           font-size: 1.3em;
           padding: 0px 50px 0 25px;	
@@ -340,9 +339,8 @@
 }
 
 /* ----------- Tablet ----------- */
-@media screen
-  and (max-width: 768px)
-  and (-webkit-min-device-pixel-ratio: 1) {
+@media (max-width: 768px)
+ {
         .header-text {
           font-size: 1.3em;
           padding: 0px 100px 0 50px;	
